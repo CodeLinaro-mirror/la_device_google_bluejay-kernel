@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "7947663"
+    build_id: "7959231"
     target: "bluejay_debug_locking"
     source_file: "trusty-test.ko"
   }
