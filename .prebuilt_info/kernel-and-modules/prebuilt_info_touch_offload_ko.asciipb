@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "7966108"
+    build_id: "7977219"
     target: "bluejay"
     source_file: "touch_offload.ko"
   }
