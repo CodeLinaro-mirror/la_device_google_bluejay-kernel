@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "7977219"
+    build_id: "7980177"
     target: "bluejay_debug_locking"
     source_file: "usb_f_dm.ko"
   }
