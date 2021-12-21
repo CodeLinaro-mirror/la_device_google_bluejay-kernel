@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8007457"
+    build_id: "8015081"
     target: "bluejay_debug_api"
     source_file: "trusty-ipc.ko"
   }
