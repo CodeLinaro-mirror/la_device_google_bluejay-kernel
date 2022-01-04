@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8037138"
+    build_id: "8039857"
     target: "bluejay_kasan"
     source_file: "exynos_tty.ko"
   }
