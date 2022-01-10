@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8049418"
+    build_id: "8053307"
     target: "bluejay_debug_locking"
     source_file: "acpm_mbox_test.ko"
   }
