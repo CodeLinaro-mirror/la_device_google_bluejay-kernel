@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8049418"
+    build_id: "8053307"
     target: "bluejay_kasan"
     source_file: "s2mpg10-powermeter.ko"
   }
