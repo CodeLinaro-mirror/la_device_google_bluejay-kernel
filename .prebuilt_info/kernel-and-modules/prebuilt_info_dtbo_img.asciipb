@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8083138"
+    build_id: "8086792"
     target: "bluejay"
     source_file: "dtbo.img"
   }
