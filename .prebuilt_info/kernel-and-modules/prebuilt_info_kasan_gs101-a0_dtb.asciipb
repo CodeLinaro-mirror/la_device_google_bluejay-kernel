@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8106299"
+    build_id: "8117166"
     target: "bluejay_kasan"
     source_file: "gs101-a0.dtb"
   }
