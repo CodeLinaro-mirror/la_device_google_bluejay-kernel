@@ -60404,7 +60404,7 @@ ffffffc012100640 d ptychar
 ffffffc01210d42c d task_index_to_char.state_char.9566
 ffffffc01211b81f d trunc_msg
 ffffffc0121242e3 d show_irq_gap.zeros
-ffffffc01213f5e5 d f_midi_shortname
+ffffffc01213f625 d f_midi_shortname
 ffffffc012175611 d f_midi_longname
 ffffffc0121ba01c d str__initcall__trace_system_name
 ffffffc0121ba025 d __param_str_initcall_debug

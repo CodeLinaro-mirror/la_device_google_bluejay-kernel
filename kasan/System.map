@@ -61017,14 +61017,14 @@ ffffffc81226c738 D kallsyms_markers
 ffffffc81226cf28 D kallsyms_token_table
 ffffffc81226d2e0 D kallsyms_token_index
 ffffffc812274665 d hci_reset_dev.hw_err
-ffffffc8122a338b d max_tt_usecs
+ffffffc8122a3343 d max_tt_usecs
 ffffffc8122be6a6 d ptychar
 ffffffc8122c9d57 d task_index_to_char.state_char
 ffffffc8122c9d57 d task_index_to_char.state_char
 ffffffc8122c9d57 d task_index_to_char.state_char
 ffffffc8122d7116 d trunc_msg
-ffffffc8122f85f8 d f_midi_shortname
-ffffffc812329f75 d f_midi_longname
+ffffffc8122f8638 d f_midi_shortname
+ffffffc812329fa7 d f_midi_longname
 ffffffc81234fbe2 d slot_type_char
 ffffffc81234fbe6 d HIDPP_FF_CONDITION_CMDS
 ffffffc81234fbea d lowpan_ttl_values
