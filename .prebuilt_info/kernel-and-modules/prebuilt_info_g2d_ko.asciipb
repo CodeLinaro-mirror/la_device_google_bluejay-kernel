@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8158074"
+    build_id: "8188792"
     target: "bluejay"
     source_file: "g2d.ko"
   }
