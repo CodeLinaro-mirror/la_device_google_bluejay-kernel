@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8191594"
+    build_id: "8192763"
     target: "bluejay_debug_locking"
     source_file: "dtbo.img"
   }
