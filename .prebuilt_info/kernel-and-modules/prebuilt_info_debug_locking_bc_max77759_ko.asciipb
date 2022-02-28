@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8208571"
+    build_id: "8222008"
     target: "bluejay_debug_locking"
     source_file: "bc_max77759.ko"
   }
