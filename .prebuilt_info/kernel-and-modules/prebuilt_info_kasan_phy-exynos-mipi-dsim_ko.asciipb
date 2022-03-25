@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8344118"
+    build_id: "8354208"
     target: "bluejay_kasan"
     source_file: "phy-exynos-mipi-dsim.ko"
   }
