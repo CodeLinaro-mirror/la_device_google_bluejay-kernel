@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8340932"
+    build_id: "8354208"
     target: "bluejay"
     source_file: "i2c-dev.ko"
   }
