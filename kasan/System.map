@@ -67507,11 +67507,11 @@ ffffffc812369360 D kallsyms_token_index
 ffffffc81237047d d hci_reset_dev.hw_err
 ffffffc8123a08ef d max_tt_usecs
 ffffffc8123bcbcf d ptychar
-ffffffc8123c8b1f d task_index_to_char.state_char
-ffffffc8123c8b1f d task_index_to_char.state_char
-ffffffc8123c8b1f d task_index_to_char.state_char
-ffffffc8123d6742 d trunc_msg
-ffffffc8123f8cdf d f_midi_shortname
+ffffffc8123c8aec d task_index_to_char.state_char
+ffffffc8123c8aec d task_index_to_char.state_char
+ffffffc8123c8aec d task_index_to_char.state_char
+ffffffc8123d66c6 d trunc_msg
+ffffffc8123f8c9e d f_midi_shortname
 ffffffc81242c6c1 d f_midi_longname
 ffffffc812453c92 d slot_type_char
 ffffffc812453c96 d HIDPP_FF_CONDITION_CMDS
