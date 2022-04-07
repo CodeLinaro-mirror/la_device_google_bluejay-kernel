@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8391117"
+    build_id: "8409504"
     target: "bluejay_debug_memory"
     source_file: "s2mpg11-regulator.ko"
   }
