@@ -106155,9 +106155,9 @@ ffffffc0120fce83 d hci_reset_dev.hw_err
 ffffffc01213219d d max_tt_usecs
 ffffffc012150f32 d ptychar
 ffffffc01215e568 d task_index_to_char.state_char.9980
-ffffffc01216d2dd d trunc_msg
-ffffffc012176117 d show_irq_gap.zeros
-ffffffc0121921f6 d f_midi_shortname
+ffffffc01216d29c d trunc_msg
+ffffffc0121760d6 d show_irq_gap.zeros
+ffffffc0121921b5 d f_midi_shortname
 ffffffc0121cae58 d f_midi_longname
 ffffffc012210be0 d str__initcall__trace_system_name
 ffffffc012210be9 d __param_str_initcall_debug
