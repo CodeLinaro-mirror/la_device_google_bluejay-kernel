@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8444650"
+    build_id: "8447676"
     target: "bluejay_debug_memory"
     source_file: "panel-samsung-sofef01.ko"
   }
