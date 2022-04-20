@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8468546"
+    build_id: "8475473"
     target: "bluejay"
     source_file: "trusty-log.ko"
   }
