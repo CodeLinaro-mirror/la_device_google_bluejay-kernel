@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8475473"
+    build_id: "8478016"
     target: "bluejay"
     source_file: "dbgcore-dump.ko"
   }
