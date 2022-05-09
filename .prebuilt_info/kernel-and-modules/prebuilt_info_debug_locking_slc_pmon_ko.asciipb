@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "8053307"
+    build_id: "8548155"
     target: "bluejay_debug_locking"
     source_file: "slc_pmon.ko"
   }
   dest_file: "debug_locking/slc_pmon.ko"
-  version: "Linux version 5.10.66-android12-9-00001-g982761134d97-ab8033671 (build-user@build-host) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Fri Dec 24 01:58:08 UTC 2021"
+  version: "Linux version 5.10.107-android13-4-00206-g4dce9d7a65b1-ab8534322 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Tue May 3 09:14:34 UTC 2022"
   version_group: "kernel-and-modules"
   git_project: "device/google/bluejay-kernel"
 }
