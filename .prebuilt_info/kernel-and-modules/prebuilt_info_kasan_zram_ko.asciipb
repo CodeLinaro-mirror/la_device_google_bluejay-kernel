@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8556498"
+    build_id: "8567594"
     target: "bluejay_kasan"
     source_file: "zram.ko"
   }
