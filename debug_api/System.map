@@ -103689,7 +103689,7 @@ ffffffc01233dcc3 d task_index_to_char.state_char.8920
 ffffffc01234b325 d trunc_msg
 ffffffc01235349a d show_irq_gap.zeros
 ffffffc01236d318 d f_midi_shortname
-ffffffc0123a0e37 d f_midi_longname
+ffffffc0123a0e6c d f_midi_longname
 ffffffc0123e3428 d str__initcall__trace_system_name
 ffffffc0123e3431 d __param_str_initcall_debug
 ffffffc0123e3444 d slot_type_char
