@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8602518"
+    build_id: "8605878"
     target: "bluejay_debug_kmemleak"
     source_file: "power_stats.ko"
   }
