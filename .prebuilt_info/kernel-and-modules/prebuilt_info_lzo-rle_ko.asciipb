@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8660060"
+    build_id: "8671495"
     target: "bluejay"
     source_file: "lzo-rle.ko"
   }
