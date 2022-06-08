@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8687620"
+    build_id: "8692392"
     target: "bluejay"
     source_file: "ufs-exynos-core.ko"
   }
