@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8722499"
+    build_id: "8731804"
     target: "bluejay"
     source_file: "fpc1020_platform_tee.ko"
   }
