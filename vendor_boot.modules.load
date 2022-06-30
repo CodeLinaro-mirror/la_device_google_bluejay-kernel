@@ -191,7 +191,6 @@ extra/nitrous.ko
 extra/overheat_mitigation.ko
 extra/p9221.ko
 extra/panel-samsung-s6e3fc3_6a.ko
-extra/panel/panel-samsung-ana6707.ko
 extra/panel/panel-samsung-drv.ko
 extra/panel/panel-samsung-emul.ko
 extra/panel/panel-samsung-s6e3fc3.ko
