@@ -60573,7 +60573,7 @@ ffffffc809c001d8 D kernel_config_data
 ffffffc809c09e16 D kernel_config_data_end
 ffffffc809c09e20 d config_gz_proc_ops
 ffffffc809c09e80 D kernel_headers_data
-ffffffc809f749d0 D kernel_headers_data_end
+ffffffc809f749cc D kernel_headers_data_end
 ffffffc809f74ae0 d audit_feature_names
 ffffffc809f75868 d audit_nfcfgs
 ffffffc809f759c8 d audit_watch_fsnotify_ops
@@ -68086,12 +68086,12 @@ ffffffc80a3a2818 D kallsyms_markers
 ffffffc80a3a30b0 D kallsyms_token_table
 ffffffc80a3a3470 D kallsyms_token_index
 ffffffc80a3aa5d8 d hci_reset_dev.hw_err
-ffffffc80a3db5db d max_tt_usecs
-ffffffc80a3f7cfe d ptychar
-ffffffc80a403d73 d task_index_to_char.state_char
-ffffffc80a403d73 d task_index_to_char.state_char
-ffffffc80a403d73 d task_index_to_char.state_char
-ffffffc80a41199a d trunc_msg
+ffffffc80a3db609 d max_tt_usecs
+ffffffc80a3f7d2c d ptychar
+ffffffc80a403da1 d task_index_to_char.state_char
+ffffffc80a403da1 d task_index_to_char.state_char
+ffffffc80a403da1 d task_index_to_char.state_char
+ffffffc80a4119c8 d trunc_msg
 ffffffc80a434374 d f_midi_shortname
 ffffffc80a467de6 d f_midi_longname
 ffffffc80a48f3cc d slot_type_char
