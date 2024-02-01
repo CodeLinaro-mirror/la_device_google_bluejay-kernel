@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11294604"
+    build_id: "11386986"
     target: "bluejay"
     source_file: "abrolhos.ko"
   }
   dest_file: "abrolhos.ko"
-  version: "11294604"
+  version: "11386986"
   version_group: "kernel-and-modules"
   git_project: "device/google/bluejay-kernel"
 }
